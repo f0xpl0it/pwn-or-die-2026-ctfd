@@ -107,3 +107,6 @@ CTFd/logs/
 *.dump
 *.sql
 docker-compose.override.yml
+
+# Tema personalizado
+!CTFd/themes/CTFD-odin-theme-f40f7545a1d57e9c912c8c93a0c57591899707ab
